@@ -1,0 +1,187 @@
+Todos os Web designes Regars e Diretrizes 
+
+Todos os ingredientes do projeto 
+01. Tipografia
+02. Cores
+03. Imagens e Ilustrações
+04. Ícones
+05. Sombras
+06. Raio de fronteira
+07. Espaço em branco
+08. Hierarquia visual
+09. Experiência do usuário 
+10. Componentes e Layout
+
+Todas as personalidades do site 
+Os ingredientes de design precisam ser aplicados de maneiras diferentes para diferentes sites personalidades. Personalidadesdiferentes têm traços diferentes, portanto, as escolhas para ingredientes de ndesign precisam ser feitos de acordo.
+Uma descrição detalhada de cada personalidade pode ser encontrada nos sites do curso, que também estão disponíveis para download. Aqui está uma visão geral:
+
+01. Sério/Elegante: Para luxo e elegância, baseado em fontes com serifa fina, cores douradas ou pasel e imagens grandes de alta qualidade.
+02. Minimalistas/Simples: Comsentrar-se no conteúdo essencial do texto, usando pequenas ou textos preto sem serifa de tamanho médio, linhas e poucas imgagens e Ícones
+03. Simples/Neutro: Design  que sai do caminho usando neutro e pequeno tipos de letra, e um layout muito estruturado. Comum em grandes corporações
+04. Negrito/Confiante: Causa impacto, apresentando tipografia grande e ousada, combinado com uso confiante de blocos grandes e brilhantes 
+05. Calmo/Paz: Para produtos e serviços que cuidam transmitidos por cores pastel calmantes, títulos com serifa suave e correspondência imagens/ilustrações
+06. Startup/Upbeat: Amplamente utilizados em startups, possui fontes sansserif de tamanho médio, texto e fundos cinza claro e elementos arredondados
+07. Brincalhão/Divertido: Desenhos coloridos e redondos, alimentados por elemnetos criativos como ícones ou ilustrações desenhados à mão, animações e lingugem divertida
+
+01. Tipografia
+01. Use apenas fontes boas e populares e jogue pelo seguro 
+02. Não há problemas em usar apenas um tipo de letra por página! Se  quiser mais, limite a 2 tipos de letra
+03. Escolha a fonte certa de acordo com a personalidade do seu site
+04. Ao escolher tamanhos de fonte, limite as escolhas! Use uma ferramenta de “escala de tipo” ou outro
+intervalo predefinido
+05. Use um tamanho de fonte entre 16px e 32px para texto “normal”
+06. Para texto longo (como um post de blog), tente um tamanho de 20px ou até maior
+07. Para manchetes, você pode ir bem grande (50px+) e negrito (600+), dependendo
+na personalidade
+08. Para qualquer texto, não use uma espessura de fonte inferior a 400 (regular)
+09. Use menos de 75 caracteres por linha
+10. Para texto de tamanho normal, use uma altura de linha entre 1,5 e 2. Para texto grande, vá
+abaixo de 1,5
+11. Diminua o espaçamento entre letras nos títulos, se não parecer natural (isso virá
+Por experiência)
+12. Experimente todas as letras maiúsculas para títulos curtos. Torná-los pequenos e ousados ​​e
+aumentar o espaçamento entre letras
+13. Normalmente, não justifique o texto
+14. Não centralize blocos de texto longos. Blocos pequenos são bons
+
+02 Cores
+01. Faça a cor principal corresponder à personalidade do seu site: as cores transmitem
+significado!
+02. Use um bom tom de cor! Não escolha um tom aleatório ou cores nomeadas CSS.
+03. Você precisa de pelo menos dois tipos de cores em sua paleta de cores: uma cor principal
+e uma cor cinza
+04. Com mais experiência, você pode adicionar mais cores: acento (secundário)
+cores (use uma ferramenta)
+05. Para diversidade, crie “versões” mais claras e mais escuras (tons e tonalidades)
+06. Use sua cor principal para chamar a atenção para os elementos mais importantes
+a página
+07. Use cores para adicionar detalhes interessantes ou fazer componentes inteiros ou
+seções se destacam
+08. Você pode tentar usar sua cor estrategicamente em imagens e ilustrações
+09. Em fundos de cores escuras, tente usar um tom de fundo (“mais claro
+versão”) para texto
+10. O texto geralmente não deve ser completamente preto. Ilumine se parecer pesado
+e pouco convidativo
+11. Não deixe o texto muito claro! Use uma ferramenta para verificar o contraste entre texto e
+cores de fundo
+
+03 Imagens e Ilustrações
+01. Diferentes tipos de imagens: fotos de produtos, fotos de histórias,
+ilustrações, padrões
+02. Use imagens para apoiar a mensagem e a história do seu site. Então use apenas
+imagens relevantes!
+03. Prefira imagens originais. Se não for possível, use imagens de banco de imagens com aparência original
+(não genéricos!)
+04. Tente mostrar pessoas reais para despertar as emoções do usuário
+05. Se necessário, corte as imagens para caber na sua mensagem
+06. Experimente combinar fotos, ilustrações e padrões
+07. Método nº 1: Imagem mais escura ou mais clara (total ou parcialmente, usando um
+gradiente)
+08. Método nº 2: Posicione o texto na área neutra da imagem
+09. Método nº 3: Coloque o texto em uma caixa
+10. Para considerar telas de alta resolução, faça as dimensões da imagem 2x maiores que
+seu tamanho exibido
+11. Comprima imagens para um tamanho de arquivo menor e melhor desempenho
+12. Ao usar várias imagens lado a lado, verifique se elas
+mesmas dimensões
+
+04 Ícones
+01. Use um bom pacote de ícones, existem vários pacotes de ícones gratuitos e pagos
+02. Use apenas um pacote de ícones. Não misture ícones de diferentes pacotes de ícones
+03. Use ícones SVG ou fontes de ícones. Não use formatos de imagem bitmap (.jpg e
+.png)!
+04. Ajuste à personalidade do site! Redondeza, peso e preenchido/delineado
+depende da tipografia
+05. Use ícones para fornecer assistência visual ao texto
+06. Use ícones para blocos de recursos do produto
+07. Use ícones associados a ações e rotule-os (a menos que não haja espaço ou
+ícone está 100% claro)
+08. Use ícones como marcadores
+09. Para manter os ícones neutros, use a mesma cor do texto. Para chamar mais atenção,
+usar cor diferente
+10. Não confunda seus usuários: os ícones precisam fazer sentido e caber no texto ou
+ação!
+11. Não faça ícones maiores do que foram projetados. Se necessário,
+envolvê-los em uma forma
+
+05 Sombras
+01. Você não precisa usar sombras! Use-os apenas se fizer sentido para o
+personalidade do site
+02. Use sombras em pequenas doses: não adicione sombras em todos os elementos!
+03. Ilumine as sombras, não as deixe muito escuras!
+04. Use sombras pequenas para elementos menores que devem se destacar (para desenhar
+atenção)
+05. Use sombras de tamanho médio para áreas maiores que devem se destacar um pouco
+mais
+06. Use sombras grandes para elementos que realmente devem flutuar acima do
+interface
+07. Experimente alterar as sombras na interação do mouse (clique e passe o mouse)
+08. Bônus: Experimente com brilhos (sombras coloridas)
+
+06 Raio de borda
+01. Use border-radius para aumentar a diversão e diversão do design, para
+torná-lo menos sério
+02. Os tipos de letra têm uma certa redondeza: certifique-se de que border-radius
+combina com essa redondeza!
+03. Use border-radius em botões, imagens, ícones ao redor, seções de destaque
+e outros elementos
+
+07 Espaço em branco
+01. Use toneladas de espaço em branco entre as seções
+02. Use muito espaço em branco entre grupos de elementos
+03. Use espaços em branco entre os elementos
+04. Dentro de grupos de elementos, tente usar espaços em branco ao invés de linhas
+05. Quanto mais alguns elementos (ou grupos de elementos) estiverem juntos, mais
+mais perto eles deveriam estar!
+06. Comece com muito espaço em branco, talvez até demais! Em seguida, remova
+espaço em branco de lá
+07. Combine outras opções de design. Se você tem texto grande ou ícones grandes, você precisa
+mais espaço em branco
+08. Tente uma regra rígida, como usar múltiplos de 16px para todos os espaçamentos
+
+08 Hierarquia Visual
+01. Posicione os elementos importantes mais próximos do topo da página, onde eles ficam
+mais atenção
+02. Use as imagens com atenção, pois elas chamam muito a atenção (imagens maiores ficam
+mais atenção)
+03. O espaço em branco cria separação, então use o espaço em branco estrategicamente para
+enfatizar elementos
+04. Para elementos de texto, use tamanho da fonte, espessura da fonte, cor e espaço em branco para
+transmitir importância
+05. Quais elementos do texto enfatizar? Títulos, subtítulos, links, botões, dados
+pontos, ícones
+06. Enfatize um componente importante usando cor de fundo, sombra ou
+fronteira (ou múltipla)
+07. Tente enfatizar algum componente A sobre o componente B, tirando a ênfase do componente B
+08. Quais componentes enfatizar? Depoimentos, seções de apelo à ação,
+seções de destaque, cartões de visualização, formulários, tabelas de preços,
+linhas/colunas em tabelas, etc.
+
+09 Experiência do Usuário (UX)
+01. Não crie layouts complicados. Não reinvente a roda. Usar padrões
+que os usuários sabem
+02. Faça do seu call-to-action o elemento mais proeminente e faça o texto
+descritivo
+03. Use texto azul e texto sublinhado apenas para links!
+04. As animações devem ter um propósito e ser rápidas: entre 200 e 500
+milissegundos
+05. Nos formulários, alinhe etiquetas e campos em uma única linha vertical, para tornar o formulário
+mais fácil de digitalizar
+06. Ofereça aos usuários um bom feedback para todas as ações: erros de formulário, sucesso de formulário, etc.
+[aplicativos da web]
+07. Coloque os botões de ação onde eles irão criar um efeito (lei da localidade) [web
+aplicativos]
+08. Use um título descritivo e focado em palavras-chave em sua página principal. Não seja
+vago ou extravagante!
+09. Inclua apenas informações relevantes, de forma eficiente! Recorte o cotão e faça o
+conteúdo 100% claro
+10. Use palavras simples! Evite jargões técnicos e palavras “inteligentes”
+11. Divida o texto longo com subtítulos, imagens, citações em bloco, marcadores,
+etc.
+
+10 Elementos e Componentes
+01. Use elementos e componentes comuns para transmitir a
+em formação
+02. Combine componentes em layouts usando padrões de layout comuns
+03. Reúna diferentes áreas de layout em uma página final completa
